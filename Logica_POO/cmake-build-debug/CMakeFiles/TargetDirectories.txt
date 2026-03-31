@@ -1,0 +1,3 @@
+C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir
+C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

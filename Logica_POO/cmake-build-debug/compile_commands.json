@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\LogicaProgramacion.dir\\main.cpp.obj -c C:\\Users\\Walter\\Desktop\\Logica_POO\\LogicaProgramacion\\main.cpp",
+  "file": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/main.cpp",
+  "output": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\LogicaProgramacion.dir\\Persona.cpp.obj -c C:\\Users\\Walter\\Desktop\\Logica_POO\\LogicaProgramacion\\Persona.cpp",
+  "file": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/Persona.cpp",
+  "output": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir/Persona.cpp.obj"
+},
+{
+  "directory": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\LogicaProgramacion.dir\\CuentaBancaria.cpp.obj -c C:\\Users\\Walter\\Desktop\\Logica_POO\\LogicaProgramacion\\CuentaBancaria.cpp",
+  "file": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/CuentaBancaria.cpp",
+  "output": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir/CuentaBancaria.cpp.obj"
+},
+{
+  "directory": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\LogicaProgramacion.dir\\Tarjeta.cpp.obj -c C:\\Users\\Walter\\Desktop\\Logica_POO\\LogicaProgramacion\\Tarjeta.cpp",
+  "file": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/Tarjeta.cpp",
+  "output": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir/Tarjeta.cpp.obj"
+},
+{
+  "directory": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\LogicaProgramacion.dir\\CompraEnCuotas.cpp.obj -c C:\\Users\\Walter\\Desktop\\Logica_POO\\LogicaProgramacion\\CompraEnCuotas.cpp",
+  "file": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/CompraEnCuotas.cpp",
+  "output": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir/CompraEnCuotas.cpp.obj"
+},
+{
+  "directory": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\LogicaProgramacion.dir\\Banco.cpp.obj -c C:\\Users\\Walter\\Desktop\\Logica_POO\\LogicaProgramacion\\Banco.cpp",
+  "file": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/Banco.cpp",
+  "output": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir/Banco.cpp.obj"
+},
+{
+  "directory": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\LogicaProgramacion.dir\\Fecha.cpp.obj -c C:\\Users\\Walter\\Desktop\\Logica_POO\\LogicaProgramacion\\Fecha.cpp",
+  "file": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/Fecha.cpp",
+  "output": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir/Fecha.cpp.obj"
+},
+{
+  "directory": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\LogicaProgramacion.dir\\RedInterbancaria.cpp.obj -c C:\\Users\\Walter\\Desktop\\Logica_POO\\LogicaProgramacion\\RedInterbancaria.cpp",
+  "file": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/RedInterbancaria.cpp",
+  "output": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir/RedInterbancaria.cpp.obj"
+},
+{
+  "directory": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\LogicaProgramacion.dir\\AppBancaria.cpp.obj -c C:\\Users\\Walter\\Desktop\\Logica_POO\\LogicaProgramacion\\AppBancaria.cpp",
+  "file": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/AppBancaria.cpp",
+  "output": "C:/Users/Walter/Desktop/Logica_POO/LogicaProgramacion/cmake-build-debug/CMakeFiles/LogicaProgramacion.dir/AppBancaria.cpp.obj"
+}
+]
