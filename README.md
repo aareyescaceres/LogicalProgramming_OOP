@@ -24,7 +24,7 @@ El proyecto está modularizado en múltiples archivos de cabecera (`.h`) y de im
 * **`Fecha.h` / `Fecha.cpp`**: Estructura utilitaria para el manejo de meses y años, demostrando la sobrecarga del operador de asignación.
 * **`Persona.h` / `Tarjeta.h`**: Representan a los clientes del banco y los medios de pago asociados a sus cuentas.
 * **`AppBancaria.h` / `RedInterbancaria.h`**: Clases que orquestan las transacciones de alto nivel y la comunicación entre distintas entidades.
-* **`main.cpp`**: Punto de entrada del programa. [cite_start]Ejecuta un script de prueba que levanta el sistema, crea usuarios, asigna cuentas/tarjetas y simula compras y cierres de mes para demostrar el funcionamiento cíclico de la lógica.
+* **`main.cpp`**: Punto de entrada del programa. Ejecuta un script de prueba que levanta el sistema, crea usuarios, asigna cuentas/tarjetas y simula compras y cierres de mes para demostrar el funcionamiento cíclico de la lógica.
 
 ## ⚙️ Tecnologías y Requisitos
 
